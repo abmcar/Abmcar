@@ -1,17 +1,44 @@
-### Hi there 👋
-![Alt Text](https://github-readme-stats.vercel.app/api?username=abmcar&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abmcar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**abmcar/Abmcar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm abmcar 👋
 
-Here are some ideas to get you started:
+A developer interested in blockchain infrastructure, systems programming, and building tools that scratch my own itch. Currently exploring deterministic virtual machines and Ethereum execution environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+---
+
+#### 🔗 Blockchain & VM Infrastructure
+
+Exploring deterministic execution and Ethereum VM internals.
+
+- [DTVM](https://github.com/DTVMStack/DTVM) — DeTerministic Virtual Machine with SmartCogent *(contributor)*
+
+#### 🛠 Tools & Plugins
+
+Small utilities I built for my own workflow.
+
+- [FrontMatter-Magic](https://github.com/abmcar/FrontMatter-Magic) — Generate Jekyll YAML front matter for Obsidian notes
+
+#### 🎮 Earlier Plugin Work
+
+Minecraft Spigot plugins from my earlier projects.
+
+- [EasyVar](https://github.com/abmcar/EasyVar) — Set variables and execute commands based on their values
+- [EasyMake](https://github.com/abmcar/EasyMake) — Highly customizable crafting plugin
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abmcar&show_icons=true&theme=dark&hide_title=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=abmcar&show_icons=true&theme=default&hide_title=true" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abmcar&show_icons=true&theme=default&hide_title=true" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abmcar/Abmcar/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abmcar/Abmcar/output/github-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/abmcar/Abmcar/output/github-snake.svg" />
+</picture>
