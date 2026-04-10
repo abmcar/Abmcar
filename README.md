@@ -32,9 +32,9 @@ Minecraft Spigot plugins from my earlier projects.
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abmcar&show_icons=true&theme=dark&hide_title=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=abmcar&show_icons=true&theme=default&hide_title=true" />
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abmcar&show_icons=true&theme=default&hide_title=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=abmcar&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=abmcar&theme=default" />
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abmcar&theme=default" />
 </picture>
 
 <picture>
